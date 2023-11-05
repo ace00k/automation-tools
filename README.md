@@ -11,15 +11,11 @@ Before using this script, make sure you have the following prerequisites in plac
 
 ## Usage
 
-1. Make the script executable if it's not already:
+1. Run the script in any of the following ways
 
    ```bash
    chmod +x VPNforwarding.sh 
    sudo ./VPNforwarding.sh
-   ```
-or
-
-   ```bash
    sudo  bash ./VPNforwarding.sh
    ```
 
