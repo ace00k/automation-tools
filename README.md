@@ -2,7 +2,7 @@
 
 This repository contains a collection of automation scripts for penetration testing (pentest) and CTFs mostly written in Python and Bash. These scripts are designed to simplify and streamline various tasks related to security testing, vulnerability assessment, and cybersecurity challenges.
 
-## VPNforward.sh 
+## VPNforwarding.sh 
 
 This Bash script is designed to set up IP forwarding and redirect traffic from the "tun0" interface to a specific Windows host. It is particularly useful when working with HTB (Hack The Box) or other scenarios where you need to redirect traffic without changing your VPN setup.
 
