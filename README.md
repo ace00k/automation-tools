@@ -23,11 +23,11 @@ Before using this script, make sure you have the following prerequisites in plac
    sudo  bash ./VPNforwarding.sh
 ```
 
-![Execution](img/VPNforward1,png)
+![Execution](/img/VPNforward1,png)
 
 2. Now copy the script output on your Windows VM
 
-![Windows](img/VPNforward2.png)
+![Windows](/img/VPNforward2.png)
 
 3. To delete changes on both hosts just run this commands:
 

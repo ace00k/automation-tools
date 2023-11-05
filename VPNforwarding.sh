@@ -42,8 +42,6 @@ forward(){
   echo -e "[+] Iptables rules created, please run the following command on your Windows host:\n" 
 
   echo -e "\troute add $htb_subnet $kali_ip" 
-  echo -e "\nTo delete the rule\n"
-  echo -e "\troute delete $htb_subnet $kali_ip"
 
 
 }
