@@ -34,7 +34,7 @@ Before using this script, make sure you have the following prerequisites in plac
 **Linux**
 
 ```bash
-sudo bash -c "sudo bash -c 'echo 0 > /proc/sys/net/ipv4/ip_forward'; iptables --flush; iptables --table nat --flush; iptables --delete-chain; iptables --table nat --delete-chain
+sudo bash -c "echo 0 > /proc/sys/net/ipv4/ip_forward"; iptables --flush; iptables --table nat --flush; iptables --delete-chain; iptables --table nat --delete-chain
 ```
 **Windows**
 
